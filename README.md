@@ -8,4 +8,4 @@ Este repositório foi desenvolvido para utilização no minicurso de Demonstraç
 
 
 Abaixo segue o resultado final do projeto.
-![](gif/site.gif)
+![](gif/snake.gif)
