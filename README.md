@@ -9,3 +9,6 @@ Este repositório foi desenvolvido para utilização no minicurso de Demonstraç
 
 Abaixo segue o resultado final do projeto.
 ![](gif/snake.gif)
+
+
+Agradecimento a [Chris DeLeon](https://hometeamgamedev.com/) por disponibilizar o código.
